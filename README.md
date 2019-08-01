@@ -17,7 +17,15 @@ Hacking together is much more fun, so let's find you a team.
 
 ## Team looking for a hacker
 
-1.  Open a new issue using the template `Team wants hacker`. Here you can pitch your idea and tell everyone why they should buidl it.  Feel free to add or create labels that match your skills.
+1.  Open a new issue using the template `Team wants hacker`. Here you can pitch what you're working on and tell everyone why they should buidl it.  Feel free to add or create labels that match your skills.
+2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `Hacker wants team`) and engage with them.
+3.  When you found all the hackers you dreamed of and needed close your issue so that everyone knows you're set.
+
+## Idea looking for a team
+
+Some people have great ideas, but don't have a team yet to help them bring it into reality.
+
+1.  Open a new issue using the template `Idea wants team`. Here you can pitch your idea and tell everyone why they should help you buidl it.  Feel free to add or create labels that match your skills.
 2.  Wait for hackers to approach you or browse through the hacker profiles (all issues with the label `Hacker wants team`) and engage with them.
 3.  When you found all the hackers you dreamed of and needed close your issue so that everyone knows you're set.
 
