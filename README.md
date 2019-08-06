@@ -1,4 +1,15 @@
-# ETHBerlin-Teamfinding
+# ETHBerlin ZWei Teamfinding 2019
+
+This repository contains an issue tracker that allows teams to find hackers, and hackers to find a team.
+
+## TL;DR
+
+- Looking for a team? Create an issue with `[LFT]`: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
+- Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=team-wants-hacker.md)
+- Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=idea-wants-team.md)
+- Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
+
+This repository of knowledge guides you through getting started with ETHBerlin, Ethereum, blockchain, and decentralized application development.
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place!
 
