@@ -1,19 +1,31 @@
 ---
 name: Hacker wants team
-about: You want to join a team and help buidl their idea
-
+about: You **have skills** and **want to find a team**? Great!
 ---
 
 ## Background
 
-*Talk a little about yourself: e.g. who you are, what you do, how you got first into Ethereum or what brings you to ETHBerlin*
+_Talk a little about yourself:_
+
+- [ ] _Who you are_: 
+- [ ] _What you do_: 
+- [ ] _How you got first into Ethereum_: 
+- [ ] _What brings you to ETHBerlin_: 
 
 ## Skills
 
-*Tell us what you are looking for: e.g. solidity, web3.js, go-ethereum, UX, game theory, ...*
+_Tell us what your skills are:_
+
+- [ ] Core Blockchain Development (Go, C++, Rust)
+- [ ] Smart Contracts (Solidity, Vyper)
+- [ ] DApps, Web3.JS (JavaScript, CSS)
+- [ ] Design, User Experience
+- [ ] Game theory
+- [ ] _Other_: ...
 
 ## Communication
 
-*Consider leaving your personal Riot/Status address so that the team can contact you off GitHub.* 
+- _Riot handle_:
+- _Status IM_:
 
-*Note that this is only a template, feel free to talk about anything you want teams to know!*
+_Note that this is only a template, feel free to talk about anything you want teams to know!_
