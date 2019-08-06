@@ -25,7 +25,7 @@ _Tell us what your skills are:_
 
 ## Communication
 
-- _Riot handle_:
-- _Status IM_:
+- [ ] _Riot handle_:
+- [ ] _Status IM_:
 
 _Note that this is only a template, feel free to talk about anything you want teams to know!_
