@@ -10,13 +10,10 @@ This repository contains an issue tracker that allows teams to find hackers, and
 -   Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
 -   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
 
-This repository of knowledge guides you through getting started with ETHBerlin, Ethereum, blockchain, and decentralized application development.
-
-You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place!
 
 ![ETHBerlin logo](https://ethberlinzwei.com/img/mainlogo.svg)
 
-Hacking together is much more fun, so let's find you a team.
+You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
 ## Hacker looking for a team
 
