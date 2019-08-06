@@ -1,6 +1,7 @@
 ---
 name: Hacker wants team
 about: You **have skills** and **want to find a team**? Great!
+
 ---
 
 ## Background
@@ -20,10 +21,13 @@ _Tell us what your skills are:_
 - [ ] Smart Contracts (Solidity, Vyper)
 - [ ] DApps, Web3.JS (JavaScript, CSS)
 - [ ] Design, User Experience
+- [ ] Project Management
 - [ ] Game theory
 - [ ] _Other_: ...
 
 ## Communication
+
+_Consider leaving your personal Riot/Status address so that the team can contact you off GitHub._
 
 - [ ] _Riot handle_:
 - [ ] _Status IM_:
